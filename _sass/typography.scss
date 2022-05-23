@@ -45,7 +45,7 @@
 
     .picture-column {
         width: 35%;
-        float: left;
+        float: right;
         // margin-right: 30px;
         // position: relative;
         .profile-picture {
@@ -120,10 +120,10 @@
 
     .column {
         // float: left;
-        // position: relative;
+        position: relative;
         // overflow: hidden;
         margin: 0 auto;
-        text-align: center;
+        // text-align: center;
     }
 
     // .picture-column {
