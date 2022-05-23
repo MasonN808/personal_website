@@ -45,10 +45,11 @@
 
     .picture-column {
         width: 35%;
-        float: right;
         // margin-right: 30px;
         // position: relative;
         .profile-picture {
+            float: right;
+
             // height: $image-size;
             // width: $image-size;
             object-fit: contain;
@@ -131,7 +132,7 @@
     // }
 
     .text-column { 
-        float: right;
+        // float: right;
         width: 65%;
         // position: absolute;
         @media (max-width: 1016px) {
