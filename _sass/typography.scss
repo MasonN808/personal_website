@@ -48,7 +48,7 @@
     .picture-column {
         width: 35%;
         // margin-right: 30px;
-        position: absolute;
+        // position: absolute;
         // float: right;
         padding-right: 20px;
 
@@ -88,6 +88,7 @@
             margin: 0 auto; // center picture in middle of screen
             float: unset;
             text-align: center;
+            padding-right: 0;
             width: 100%;
             flex-direction: column;
         }
