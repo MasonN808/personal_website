@@ -49,8 +49,9 @@
         width: 35%;
         // margin-right: 30px;
         position: absolute;
+        float: right;
+
         .profile-picture {
-            float: right;
             // height: $image-size;
             // width: $image-size;
             object-fit: contain;
