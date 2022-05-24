@@ -57,8 +57,8 @@
             // height: $image-size;
             // width: $image-size;
             object-fit: contain;
-            // width: 15%;
-            // height: 15%;
+            width: 15%;
+            height: 15%;
             // position: absolute;
             // margin: 50px 0 0 140px;
             // margin-right: 18vw;
@@ -79,6 +79,8 @@
                 float: unset;
                 text-align: center;
                 padding: 0 0 0 0;
+                width: 15%; // Forces inline-block
+                height: 15%;
 
                 img {
                     margin-top: 10px;
