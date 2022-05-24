@@ -2,7 +2,7 @@
 @import "timeline";
 
 .content {
-    margin: 0 auto; // center picture in middle of screen
+    margin: 10px auto; // center picture in middle of screen
     flex-direction: row;
 
     a:hover {
@@ -149,7 +149,7 @@
             margin: 0 auto; // center picture in middle of screen
             // float: unset;
             text-align: left;
-            width: 100%
+            width: 100%;
         }
     }
 
