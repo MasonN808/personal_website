@@ -126,7 +126,7 @@
     .column {
         // float: left;
         position: relative;
-        overflow: hidden;
+        // overflow: hidden;
         // margin: 0 auto;
         // text-align: center;
     }
@@ -138,7 +138,7 @@
     .text-column { 
         float: right;
         width: 65%;
-        // position: absolute;
+        position: absolute;
         @media (max-width: 1016px) {
             margin: 0 auto; // center picture in middle of screen
             // float: unset;
