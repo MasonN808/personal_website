@@ -3,6 +3,7 @@
 
 .content {
     margin: 0 auto; // center picture in middle of screen
+    flex-direction: row;
 
     a:hover {
         text-decoration: underline;
@@ -141,7 +142,7 @@
 
     .text-column { 
         float: right;
-        flex-direction: column;
+        // flex-direction: column;
         width: 65%;
         // position: absolute;
         @media (max-width: 1016px) {
