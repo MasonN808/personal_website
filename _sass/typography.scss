@@ -137,6 +137,7 @@
 
     .text-column { 
         float: right;
+        flex-direction: column;
         width: 65%;
         position: absolute;
         @media (max-width: 1016px) {
