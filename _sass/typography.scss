@@ -50,7 +50,7 @@
         // margin-right: 30px;
         // position: absolute;
         // float: right;
-        padding-right: 20px;
+        padding-right: 10px;
 
         .profile-picture {
             // height: $image-size;
@@ -143,7 +143,7 @@
         float: right;
         flex-direction: column;
         width: 65%;
-        position: absolute;
+        // position: absolute;
         @media (max-width: 1016px) {
             margin: 0 auto; // center picture in middle of screen
             // float: unset;
