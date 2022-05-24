@@ -2,6 +2,8 @@
 @import "timeline";
 
 .content {
+    margin: 0 auto; // center picture in middle of screen
+
     a:hover {
         text-decoration: underline;
     }
@@ -46,10 +48,9 @@
     .picture-column {
         width: 35%;
         // margin-right: 30px;
-        position: absolute;
+        // position: absolute;
         .profile-picture {
             float: right;
-
             // height: $image-size;
             // width: $image-size;
             object-fit: contain;
