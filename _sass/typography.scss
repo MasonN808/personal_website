@@ -100,7 +100,9 @@
 
     .force-in-line{
         display: block;
-        // width: 250px; // might change
+        @media (max-width: 769px) {
+            width: 100%;
+        }
     }
 
     .fa {
