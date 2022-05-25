@@ -106,6 +106,10 @@
         @media (max-width: 769px) {
             width: 300px;
             display: inline-block;
+            margin: 0 auto; // center picture in middle of screen
+            float: unset;
+            text-align: center;
+            flex-direction: column;
         }
     }
 
