@@ -77,9 +77,10 @@
   .all-timelines::before { // yellow virtical line
     content: "";
     position: absolute;
-    left: 70px; // move line left
+    left: 0; 
     right: 0;
-    margin: auto;
+    // margin: auto;
+    // margin-left: ;// move line left
     height: 100%;
     width: 2px;
     background: #efa22f;
