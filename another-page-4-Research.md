@@ -36,6 +36,18 @@ In our paper, we found the following solution, counting the number of triangles 
 $$\Delta = C(n,3) - \sum_{i=3}^nk_iC(i,3) - \left(\sum_{i\neq j}C(|P_i\cup P_j|,3) - (t-2)\sum_{i=1}^tC(|P_i|,3)\right)$$
 
 where we define $$k_i$$ as the number of intersetion points with $$i$$ intersecting lines. Additionally, we partition the set of lines in the arrangement $$\mathcal{A}$$ into sets $$P_1$$, $$P_2$$, . . . , $$P_t$$, where lines $$\ell$$ and $$\ell'$$ are both in the same partition set $$P_i$$ if and only if $$\ell$$ and $$\ell'$$ are parallel.
+
+This means we can find $$\Delta$$ if we know the following information about $$\mathcal{A}$$:
+  1. the total number of lines $$n$$
+  2. all $$k_i$$'s s.t. $$i > 2$$
+  3. all partition sets (more specifically their cardinality)
+
+This allows us to find $$\Delta$$ for the followin complex arrangement
+
+<p align="center">
+<img src="assets\img\Figure7.jpg" alt="drawing" width="300"/>
+</p>
+
 ## Metareasoning in Autonomous Systems
 
 
