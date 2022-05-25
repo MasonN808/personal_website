@@ -126,6 +126,9 @@
             flex-direction: column;
             left: auto; // make left transformation here
         }
+        .a {
+            display: block;
+        }
     }
 
     .fa {
@@ -137,7 +140,7 @@
     }
 
     .text { // for text in contact information
-        display: block;
+        // display: block;
         @media (max-width: 769px) {
             display: inline;
         }
@@ -146,7 +149,7 @@
     }
 
     .fa-github {
-        display: block;
+        // display: block;
 
         @media (max-width: 769px) {
             display: inline;
@@ -157,7 +160,7 @@
         // width: auto !important;
       }
     .fa-linkedin-square {
-        display: block;
+        // display: block;
 
         @media (max-width: 769px) {
             display: inline;
@@ -172,7 +175,7 @@
         // right: -7px;
         // top: -6px;
         // width: auto !important;
-        display: block;
+        // display: block;
 
         @media (max-width: 769px) {
             display: inline;
