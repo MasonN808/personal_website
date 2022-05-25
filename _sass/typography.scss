@@ -92,10 +92,11 @@
                 padding: 0 0 0 0;
                 width: 0%; // Forces inline-block
                 height: 0%;
-                left: 125px; // exactly half of the width of the photo
 
                 img {
                     margin-top: 10px;
+                    left: 125px; // exactly half of the width of the photo
+
                 }
             }
         }
