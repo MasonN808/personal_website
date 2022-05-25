@@ -50,6 +50,7 @@ This allows us to find $$\Delta$$ for an arbitrary arrangement such as the follo
 <img src="assets\img\Figure7.jpg" alt="drawing" width="300"/>
 </p>
 
+\* This work was done in collaboration with <a href="https://www.marist.edu/computer-science-math/faculty/matthew-glomski">Dr. Matthew Glomski</a>, <a href="https://www.marist.edu/computer-science-math/faculty/peter-krog">Dr. K. Peter Krog</a>, and <a href="https://www.marist.edu/computer-science-math/faculty/elizabeth-reid">Dr. Elizabeth Reid</a>
 ## Metareasoning in Autonomous Systems
 
 
