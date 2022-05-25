@@ -17,6 +17,7 @@ nav_order: 2
 
 ## Counting Triangles Using Combinaotrics
 Given $n$ lines within an arrangement $\mathcal{A}$ projected on $\mathbb{R}^2$, how many triangles are formed as a result? For example, how many triangles, $\Delta$, exist within the following arrangement?:
+
 <p align="center">
 <img src="assets\img\triangles1.jpg" alt="drawing" width="300"/>
 </p>
