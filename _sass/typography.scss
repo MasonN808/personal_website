@@ -99,7 +99,8 @@
     }
 
     .force-in-line{
-        display: block;
+        display: inline-block;
+        
         @media (max-width: 769px) {
             width: 100%;
         }
@@ -111,21 +112,18 @@
     }
 
     .text { // for text in contact information
-        // display: inline;
-        display:inline-block;
+        display: inline;
         font-size: .9em;
     }
 
     .fa-github {
         color: black;
-        // display: inline;
-        display:inline-block
+        display: inline;
         // padding: 5px 0px 0px 10px;
       }
     .fa-linkedin-square {
         color: black;
-        // display: inline;
-        display:inline-block
+        display: inline;
         // padding: 5px 0px 0px 10px;
       }
     .fa-file {
