@@ -107,19 +107,11 @@
   }
 
   .timeline-text h6 {
-    // -webkit-box-orient: horizontal;
-    // -webkit-box-direction: reverse;
-    // -ms-flex-direction: row-reverse;
-    // flex-direction: row-reverse;
     position: absolute;
-    // float: left;
     color: rgb(0, 0, 0);
     font-weight: 900;
-    // display: inline-block;
     font-size: 1rem;
-    // flex: 1;
     padding-left: 0;
-    // padding-right: 30px;
     left: -140px;
     text-align: right;
     // left: -80px;
@@ -167,7 +159,7 @@
     .all-timelines::before {
       right: unset;
       top: 0;
-      margin-right: 0;
+      margin-left: 0;
     }
     // .single-timeline:nth-child(2n) .timeline-text {
     //   padding-left: 30px;
