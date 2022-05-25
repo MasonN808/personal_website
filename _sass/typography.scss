@@ -112,7 +112,8 @@
     }
 
     .force-in-line{
-        width: 90px; // hard coded: could use some fixing later 
+        // width: 90px; // hard coded: could use some fixing later 
+        width: auto !important;
         // display: block;
         @media (max-width: 769px) {
             width: 100vw;
