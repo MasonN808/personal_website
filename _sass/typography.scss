@@ -109,9 +109,10 @@
     }
 
     .force-in-line{
+        width: 0;
         display: block;
         @media (max-width: 769px) {
-            width: 0vw;
+            width: 100vw;
             display: inline-block;
             margin: 0 auto; // center picture in middle of screen
             float: unset;
