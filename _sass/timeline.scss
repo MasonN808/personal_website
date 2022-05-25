@@ -80,7 +80,7 @@
     left: 0; 
     right: 0;
     margin: auto;
-    margin-left: calc(25% - 1px);// move line left
+    margin-left: calc(25% - 1px);// move line left 25% of div and 1 px
     height: 100%;
     width: 2px;
     background: #efa22f;
@@ -180,7 +180,7 @@
     //   text-align: left !important;
     // }
     .timeline-text h6 {
-      position: relative;
+      position: absolute;
       display: inline-block;
       left: 0;
       text-align: left;
