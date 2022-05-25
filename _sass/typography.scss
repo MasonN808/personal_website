@@ -60,13 +60,14 @@
         // flex-direction: column;
         padding-left: 10px;
         // display: flex;
+        
 
         .profile-picture {
             // height: $image-size;
             // width: $image-size;
             object-fit: contain;
-            width: 15%;
-            height: 15%;
+            // width: 15%;
+            // height: 15%;
             margin-bottom: 150px;
             // flex-direction: column;
 
@@ -90,12 +91,11 @@
                 float: unset;
                 text-align: center;
                 padding: 0 0 0 0;
-                width: 0%; // Forces inline-block
-                height: 0%;
+                // width: 0%; // Forces inline-block
+                // height: 0%;
 
                 img {
                     margin-top: 10px;
-                    text-align: center;
                     // left: 125px; // exactly half of the width of the photo
 
                 }
@@ -107,7 +107,7 @@
             text-align: center;
             padding-right: 0;
             width: 100%;
-            flex-direction: column;
+            // flex-direction: column;
         }
     }
 
