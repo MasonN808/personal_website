@@ -128,26 +128,37 @@
     }
 
     .text { // for text in contact information
-        display: inline;
+        @media (max-width: 769px) {
+            display: inline;
+        }
         font-size: .9em;
     }
 
     .fa-github {
+        @media (max-width: 769px) {
+            display: inline;
+        }
         color: black;
-        display: inline;
+        // display: inline;
         // padding: 5px 0px 0px 10px;
       }
     .fa-linkedin-square {
+        @media (max-width: 769px) {
+            display: inline;
+        }
         color: black;
-        display: inline;
+        // display: inline;
         // padding: 5px 0px 0px 10px;
       }
     .fa-file {
         // position: relative;
         // right: -7px;
         // top: -6px;
+        @media (max-width: 769px) {
+            display: inline;
+        }
         color: black;
-        display: inline;
+        // display: inline;
         // padding: -40px 20px 0px 0px;
         // margin-top: -20px;
         // font-size: 1.5rem;
