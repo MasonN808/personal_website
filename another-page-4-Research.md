@@ -31,6 +31,8 @@ In <a href="https://www.nytimes.com/2019/08/21/science/math-equation-triangles-p
 
 $$\Delta = C(n,3) = {n \choose 3}.$$
 
+This gives us $$\Delta = C(6,3) = 20 $$ for our first figure.
+
 In our paper, we found the following solution, counting the number of triangles with **no** assumptions
 
 $$\Delta = C(n,3) - \sum_{i=3}^nk_iC(i,3) - \left(\sum_{i\neq j}C(|P_i\cup P_j|,3) - (t-2)\sum_{i=1}^tC(|P_i|,3)\right)$$
@@ -42,7 +44,7 @@ This means we can find $$\Delta$$ if we know the following information about $$\
   2. all $$k_i$$'s s.t. $$i > 2$$
   3. all partition sets (more specifically their cardinality)
 
-This allows us to find $$\Delta$$ for the followin complex arrangement
+This allows us to find $$\Delta$$ for an arbitrary arrangement such as the following with $$\Delta = 45$$
 
 <p align="center">
 <img src="assets\img\Figure7.jpg" alt="drawing" width="300"/>
