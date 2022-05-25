@@ -31,7 +31,7 @@ In <a href="https://www.nytimes.com/2019/08/21/science/math-equation-triangles-p
 
 $$\Delta = C(n,3) = {n \choose 3}.$$
 
-In our paper, we found the following solution, counting the number of triangles with no assumptions
+In our paper, we found the following solution, counting the number of triangles with **no** assumptions
 
 $$\Delta = C(n,3) - \sum_{i=3}^nk_iC(i,3) - \left(\sum_{i\neq j}C(|P_i\cup P_j|,3) - (t-2)\sum_{i=1}^tC(|P_i|,3)\right)$$
 
