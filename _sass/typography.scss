@@ -99,9 +99,9 @@
     }
 
     .force-in-line{
-        display: block;
+        display: inline;
         @media (max-width: 769px) {
-            width: 150%;
+            width: 100%;
         }
     }
 
