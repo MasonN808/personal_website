@@ -158,7 +158,7 @@
   @media all and (max-width: 768px) {
     .all-timelines::before {
       right: unset;
-      top: 0;
+      // top: 0;
       margin-left: 0;
     }
     // .single-timeline:nth-child(2n) .timeline-text {
