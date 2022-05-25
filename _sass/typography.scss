@@ -109,7 +109,7 @@
     }
 
     .force-in-line{
-        width: 0;
+        width: auto;
         display: block;
         @media (max-width: 769px) {
             width: 100vw;
