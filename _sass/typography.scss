@@ -153,7 +153,7 @@
     .text { // for text in contact information
         // display: block;
         @media (max-width: 769px) {
-            // display: inline;
+            display: block;
         }
         font-size: .9em;
         // width: auto !important;
