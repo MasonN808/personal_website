@@ -137,6 +137,7 @@
     }
 
     .text { // for text in contact information
+        display: block;
         @media (max-width: 769px) {
             display: inline;
         }
@@ -145,6 +146,8 @@
     }
 
     .fa-github {
+        display: block;
+
         @media (max-width: 769px) {
             display: inline;
         }
@@ -154,6 +157,8 @@
         // width: auto !important;
       }
     .fa-linkedin-square {
+        display: block;
+
         @media (max-width: 769px) {
             display: inline;
         }
@@ -167,6 +172,8 @@
         // right: -7px;
         // top: -6px;
         // width: auto !important;
+        display: block;
+
         @media (max-width: 769px) {
             display: inline;
         }
