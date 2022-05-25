@@ -57,7 +57,6 @@
         // float: right;
         padding-left: 10px;
         // display: flex;
-        flex-direction: column;
 
         .profile-picture {
             // height: $image-size;
@@ -65,6 +64,8 @@
             object-fit: contain;
             width: 15%;
             height: 15%;
+            flex-direction: column;
+
             // position: absolute;
             // margin: 50px 0 0 140px;
             // margin-right: 18vw;
