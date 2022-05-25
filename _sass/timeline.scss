@@ -107,7 +107,7 @@
   }
 
   .timeline-text h6 {
-    position: absolute;
+    position: relative;
     color: rgb(0, 0, 0);
     font-weight: 900;
     font-size: 1rem;
@@ -180,7 +180,7 @@
     //   text-align: left !important;
     // }
     .timeline-text h6 {
-      position: absolute;
+      position: relative;
       display: inline-block;
       left: 0;
       text-align: left;
