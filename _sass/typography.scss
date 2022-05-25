@@ -128,12 +128,19 @@
         }
         a {
             display: block;
+            @media (max-width: 769px) {
+                display: inline-block;
+            }
+
         }
     }
 
     .fa {
         padding: 20px 0px 0px 20px;
         margin-top: 5px;// increase spacing vertical spacing between icons
+        @media (max-width: 769px) {
+            display: inline-block;
+        }
         // width: auto !important;
         // float: none;
         // text-decoration: none;
