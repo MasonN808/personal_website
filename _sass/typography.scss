@@ -99,10 +99,10 @@
     }
 
     .force-in-line{
-        display: inline-block;
-        
+        display: block;
         @media (max-width: 769px) {
             width: 100%;
+            display: inline-block;
         }
     }
 
