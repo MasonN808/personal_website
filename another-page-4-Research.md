@@ -16,7 +16,7 @@ nav_order: 2
 ## Network Reliability Using Graph Coloring
 
 ## Counting Triangles Using Combinaotrics
-Given $n$ lines within an arrangement $\mathcal{A}$ projected on $\mathbb{R}^2$, how many triangles are formed as a result?
+Given $n$ lines within an arrangement $$\mathcal{A}$$ projected on $$\mathbb{R}^2$$, how many triangles are formed as a result?
 ## Metareasoning in Autonomous Systems
 
 
