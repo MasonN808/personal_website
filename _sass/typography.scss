@@ -74,7 +74,7 @@
                 
             }
 
-            @media (max-width: 1016px) {
+            @media (max-width: 769px) {
                 margin: 10px auto; // center picture in middle of screen
                 margin-left: 18vw;
                 float: unset;
@@ -88,7 +88,7 @@
                 }
             }
         }
-        @media (max-width: 1016px) {
+        @media (max-width: 769px) {
             margin: 0 auto; // center picture in middle of screen
             float: unset;
             text-align: center;
@@ -148,7 +148,7 @@
         // flex-direction: column;
         width: 65%;
         // position: absolute;
-        @media (max-width: 1016px) {
+        @media (max-width: 769px) {
             margin: 0 auto; // center picture in middle of screen
             // float: unset;
             text-align: left;
@@ -156,7 +156,7 @@
         }
     }
 
-    @media (max-width: 1016px) {
+    @media (max-width: 769px) {
         flex-direction: column;
     }
 
