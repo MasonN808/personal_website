@@ -107,6 +107,11 @@
         margin-top: 5px;// increase spacing vertical spacing between icons
     }
 
+    .text { // for text in contact information
+        display: inline;
+        font-size: .7em;
+    }
+
     .fa-github {
         color: black;
         display: inline;
