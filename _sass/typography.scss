@@ -63,6 +63,7 @@
         .profile-picture {
             // height: $image-size;
             // width: $image-size;
+            position: absolute;
             object-fit: contain;
             width: 15%;
             height: 15%;
@@ -106,6 +107,7 @@
 
     .force-in-line{
         // display: block;
+        position: absolute;
         @media (max-width: 769px) {
             width: 0vw;
             display: inline-block;
