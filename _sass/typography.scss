@@ -137,6 +137,7 @@
             display: inline;
         }
         font-size: .9em;
+        width: auto !important;
     }
 
     .fa-github {
@@ -146,12 +147,14 @@
         color: black;
         // display: inline;
         // padding: 5px 0px 0px 10px;
+        width: auto !important;
       }
     .fa-linkedin-square {
         @media (max-width: 769px) {
             display: inline;
         }
         color: black;
+        width: auto !important;
         // display: inline;
         // padding: 5px 0px 0px 10px;
       }
@@ -159,6 +162,7 @@
         // position: relative;
         // right: -7px;
         // top: -6px;
+        width: auto !important;
         @media (max-width: 769px) {
             display: inline;
         }
