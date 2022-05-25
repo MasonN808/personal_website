@@ -114,7 +114,8 @@
     .force-in-line{
         // width: 90px; // hard coded: could use some fixing later 
         width: auto !important;
-        // display: block;
+        display: block;
+        float: none;
         @media (max-width: 769px) {
             width: 100vw;
             display: inline-block;
