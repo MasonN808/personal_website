@@ -42,7 +42,7 @@ nav_order: 2
 <a name="Triangles"></a>
 
 ## Counting Triangles Using Combinaotrics
-Given $$n$$ lines within an arrangement $$\mathcal{A}$$ projected on $$\mathbb{R}^2$$, how many triangles are formed as a result? For example, how many triangles, $$\Delta$$, exist within the following arrangement?:
+<!-- Given $$n$$ lines within an arrangement $$\mathcal{A}$$ projected on $$\mathbb{R}^2$$, how many triangles are formed as a result? For example, how many triangles, $$\Delta$$, exist within the following arrangement?:
 
 <p align="center">
 <img src="assets\img\triangles1.jpg" alt="drawing" width="300"/>
@@ -74,7 +74,7 @@ This allows us to find $$\Delta$$ for an arbitrary arrangement such as the follo
 
 <p align="center">
 <img src="assets\img\Figure7.jpg" alt="drawing" width="300"/>
-</p>
+</p> -->
 
 \* This work was done in collaboration with <a href="https://www.marist.edu/computer-science-math/faculty/matthew-glomski">Dr. Matthew Glomski</a>, <a href="https://www.marist.edu/computer-science-math/faculty/peter-krog">Dr. K. Peter Krog</a>, and <a href="https://www.marist.edu/computer-science-math/faculty/elizabeth-reid">Dr. Elizabeth Reid</a>
 
