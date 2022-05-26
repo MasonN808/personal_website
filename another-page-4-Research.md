@@ -6,16 +6,40 @@ nav_order: 2
 ---
 
 # Research
+## Contents
+- [On the Classification of Networks Using Graph Scattering](another-page-4-Research#Graph_Scattering)
+- [On the Inversion-Free Newton Algorithm](another-page-4-Research#Newton)
+- [Existence of Induced H-Saturated Graphs](another-page-4-Research#Saturation)
+- [Network Reliability Using Graph Coloring](another-page-4-Research#Network_Reliability)
+- [Counting Triangles Using Combinaotrics](another-page-4-Research#Triangles)
+- [Metareasoning in Autonomous Systems](another-page-4-Research#Metareasoning)
 
-- [On the Classification of Networks Using Graph Scattering](another-page-4-Research## On the Classification of Networks Using Graph Scattering)
+---
+<a name="Graph_Scattering"></a>
 
 ## On the Classification of Networks Using Graph Scattering
+*Contact me for more information
+
+---
+<a name="Newton"></a>
 
 ## On the Inversion-Free Newton Algorithm
+*Contact me for more information
 
-## On the Existence of Induced H-Saturated Graphs
+---
+<a name="Saturation"></a>
+
+## Existence of Induced H-Saturated Graphs
+*Contact me for more information
+
+---
+<a name="Network_Reliability"></a>
 
 ## Network Reliability Using Graph Coloring
+*Contact me for more information
+
+---
+<a name="Triangles"></a>
 
 ## Counting Triangles Using Combinaotrics
 Given $$n$$ lines within an arrangement $$\mathcal{A}$$ projected on $$\mathbb{R}^2$$, how many triangles are formed as a result? For example, how many triangles, $$\Delta$$, exist within the following arrangement?:
@@ -53,6 +77,10 @@ This allows us to find $$\Delta$$ for an arbitrary arrangement such as the follo
 </p>
 
 \* This work was done in collaboration with <a href="https://www.marist.edu/computer-science-math/faculty/matthew-glomski">Dr. Matthew Glomski</a>, <a href="https://www.marist.edu/computer-science-math/faculty/peter-krog">Dr. K. Peter Krog</a>, and <a href="https://www.marist.edu/computer-science-math/faculty/elizabeth-reid">Dr. Elizabeth Reid</a>
+
+---
+<a name="Metareasoning"></a>
+
 ## Metareasoning in Autonomous Systems
 
 
