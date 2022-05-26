@@ -6,7 +6,7 @@ nav_order: 2
 ---
 
 # Research
-## Contents
+## Projects
 - [On the Classification of Networks Using Graph Scattering](another-page-4-Research#Graph_Scattering)
 - [On the Inversion-Free Newton Algorithm](another-page-4-Research#Newton)
 - [Existence of Induced H-Saturated Graphs](another-page-4-Research#Saturation)
