@@ -7,6 +7,8 @@ nav_order: 2
 
 # Research
 
+- [On the Classification of Networks Using Graph Scattering](another-page-4-Research## On the Classification of Networks Using Graph Scattering)
+
 ## On the Classification of Networks Using Graph Scattering
 
 ## On the Inversion-Free Newton Algorithm
