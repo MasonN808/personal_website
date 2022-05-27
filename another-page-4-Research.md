@@ -11,7 +11,7 @@ nav_order: 2
 - [On the Inversion-Free Newton Algorithm](another-page-4-Research#Newton)
 - [Existence of Induced H-Saturated Graphs](another-page-4-Research#Saturation)
 - [Network Reliability Using Graph Coloring](another-page-4-Research#Network_Reliability)
-- [Counting Triangles Using Combinaotrics](another-page-4-Research#Triangles)
+- [Counting Triangles Using Combinatorics](another-page-4-Research#Triangles)
 - [Metareasoning in Autonomous Systems](another-page-4-Research#Metareasoning)
 
 ---
@@ -41,7 +41,7 @@ nav_order: 2
 ---
 <a name="Triangles"></a>
 
-## Counting Triangles Using Combinaotrics
+## Counting Triangles Using Combinatorics
 <!-- Given $$n$$ lines within an arrangement $$\mathcal{A}$$ projected on $$\mathbb{R}^2$$, how many triangles are formed as a result? For example, how many triangles, $$\Delta$$, exist within the following arrangement?:
 
 <p align="center">
