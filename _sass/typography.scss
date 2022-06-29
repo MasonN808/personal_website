@@ -160,13 +160,25 @@
         // width: auto !important;
     }
 
+    .fa-twitter {
+        // display: block;
+
+        @media (max-width: 769px) {
+            // display: inline;
+        }
+        color: #1DA1F2;
+        // display: inline;
+        // padding: 5px 0px 0px 10px;
+        // width: auto !important;
+      }
+
     .fa-github {
         // display: block;
 
         @media (max-width: 769px) {
             // display: inline;
         }
-        color: black;
+        color: #171515;
         // display: inline;
         // padding: 5px 0px 0px 10px;
         // width: auto !important;
@@ -177,7 +189,7 @@
         @media (max-width: 769px) {
             // display: inline;
         }
-        color: black;
+        color: #0077B5;
         // width: auto !important;
         // display: inline;
         // padding: 5px 0px 0px 10px;
