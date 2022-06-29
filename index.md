@@ -3,7 +3,7 @@ layout: default
 ---
 
 # About
-I'm a senior undergraduate at Marist College, majoring in Applied Mathematics and Data Science with a minor in Computer Science. My research interests lie in optimization algorithms, geometric deep learning, reinforcement learning, metareasoning, and ethical oversight of AI algorithms.
+I'm a senior undergraduate at Marist College, majoring in Applied Mathematics and Data Science with a minor in Computer Science. My research interests lie in optimization algorithms, geometric deep learning, reinforcement learning, metareasoning, and ethical oversight of AI algorithms, and interpretability of deep learning.
 
 
 <!-- ### Inline styles and components
