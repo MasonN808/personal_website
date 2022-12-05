@@ -12,7 +12,7 @@ nav_order: 2
 - Network Reliability Using Graph Coloring
 - Counting Triangles Using Combinatorics
 - Metareasoning in Autonomous Systems
----
+<!-- --- -->
 
 <!-- - [On the Classification of Networks Using Graph Scattering](another-page-4-Research#Graph_Scattering)
 - [On the Inversion-Free Newton Algorithm](another-page-4-Research#Newton)
