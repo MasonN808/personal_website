@@ -21,7 +21,8 @@ body {
     margin: 0;
     padding: 0;
     height: 100%;
-    font-family: 'Roboto Slab', sans-serif;
+    // font-family: 'Roboto Slab', sans-serif;
+    font-family: Inconsolata;
     font-size: 16px;
     line-height: 1.5em;
     letter-spacing: 0.005em;
@@ -116,6 +117,7 @@ hr {
 .container {
     max-width: $lg-width;
     margin: auto;
+    vertical-align: top;
 }
 
 .wrapper {
