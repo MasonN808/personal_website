@@ -141,8 +141,7 @@
         // padding: 20px 0px 0px 20px; // T R B L
         margin-top: 5px;// increase spacing vertical spacing between icons
         text-decoration: none;
-        // font-family: Inconsolata;
-
+        
         @media (max-width: 769px) {
             padding-top: 20px;
             // display: inline-block;
@@ -150,6 +149,10 @@
         // width: auto !important;
         // float: none;
         // text-decoration: none;
+    }
+
+    .fa-text {
+        font-family: Inconsolata;
     }
 
     .text { // for text in contact information
