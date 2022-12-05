@@ -4,15 +4,15 @@ category: Research
 title: Research
 nav_order: 2
 ---
-
 # Research
-## Past and Current Research
+<!-- ## Past and Current Research -->
 - On the Classification of Networks Using Graph Scattering
 - On the Inversion-Free Newton Algorithm for Softmax Regression
 - Existence of Induced H-Saturated Graphs
 - Network Reliability Using Graph Coloring
 - Counting Triangles Using Combinatorics
 - Metareasoning in Autonomous Systems
+---
 
 <!-- - [On the Classification of Networks Using Graph Scattering](another-page-4-Research#Graph_Scattering)
 - [On the Inversion-Free Newton Algorithm](another-page-4-Research#Newton)
@@ -21,7 +21,6 @@ nav_order: 2
 - [Counting Triangles Using Combinatorics](another-page-4-Research#Triangles)
 - [Metareasoning in Autonomous Systems](another-page-4-Research#Metareasoning) -->
 
----
 <!-- <a name="Graph_Scattering"></a>
 
 ## On the Classification of Networks Using Graph Scattering
