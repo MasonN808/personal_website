@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: default_2
 category: Research
 title: Research
@@ -6,16 +6,22 @@ title: Research
 ---
 
 # Research
-## Projects
-- [On the Classification of Networks Using Graph Scattering](another-page-4-Research#Graph_Scattering)
+## Past and Current Research
+- On the Classification of Networks Using Graph Scattering
+- On the Inversion-Free Newton Algorithm for Softmax Regression
+- Existence of Induced H-Saturated Graphs
+- Network Reliability Using Graph Coloring
+- Counting Triangles Using Combinatorics
+- Metareasoning in Autonomous Systems
+<!-- - [On the Classification of Networks Using Graph Scattering](another-page-4-Research#Graph_Scattering)
 - [On the Inversion-Free Newton Algorithm](another-page-4-Research#Newton)
 - [Existence of Induced H-Saturated Graphs](another-page-4-Research#Saturation)
 - [Network Reliability Using Graph Coloring](another-page-4-Research#Network_Reliability)
 - [Counting Triangles Using Combinatorics](another-page-4-Research#Triangles)
-- [Metareasoning in Autonomous Systems](another-page-4-Research#Metareasoning)
+- [Metareasoning in Autonomous Systems](another-page-4-Research#Metareasoning) -->
 
 ---
-<a name="Graph_Scattering"></a>
+<!-- <a name="Graph_Scattering"></a>
 
 ## On the Classification of Networks Using Graph Scattering
 *Contact me for more information
@@ -41,7 +47,7 @@ title: Research
 ---
 <a name="Triangles"></a>
 
-## Counting Triangles Using Combinatorics
+## Counting Triangles Using Combinatorics -->
 <!-- Given $$n$$ lines within an arrangement $$\mathcal{A}$$ projected on $$\mathbb{R}^2$$, how many triangles are formed as a result? For example, how many triangles, $$\Delta$$, exist within the following arrangement?:
 
 <p align="center">
@@ -76,12 +82,12 @@ This allows us to find $$\Delta$$ for an arbitrary arrangement such as the follo
 <img src="assets\img\Figure7.jpg" alt="drawing" width="300"/>
 </p> -->
 
-\* This work was done in collaboration with <a href="https://www.marist.edu/computer-science-math/faculty/matthew-glomski">Dr. Matthew Glomski</a>, <a href="https://www.marist.edu/computer-science-math/faculty/peter-krog">Dr. K. Peter Krog</a>, and <a href="https://www.marist.edu/computer-science-math/faculty/elizabeth-reid">Dr. Elizabeth Reid</a>
+<!-- \* This work was done in collaboration with <a href="https://www.marist.edu/computer-science-math/faculty/matthew-glomski">Dr. Matthew Glomski</a>, <a href="https://www.marist.edu/computer-science-math/faculty/peter-krog">Dr. K. Peter Krog</a>, and <a href="https://www.marist.edu/computer-science-math/faculty/elizabeth-reid">Dr. Elizabeth Reid</a>
 
 ---
 <a name="Metareasoning"></a>
 
-## Metareasoning in Autonomous Systems
+## Metareasoning in Autonomous Systems -->
 
 
-[back](./) -->
+[back](./)
