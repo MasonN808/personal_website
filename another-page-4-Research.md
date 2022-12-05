@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default_2
 category: Research
 title: Research
@@ -84,4 +84,4 @@ This allows us to find $$\Delta$$ for an arbitrary arrangement such as the follo
 ## Metareasoning in Autonomous Systems
 
 
-[back](./)
+[back](./) -->
