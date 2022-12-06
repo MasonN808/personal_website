@@ -7,7 +7,7 @@ I'm a senior undergraduate at Marist College, majoring in Applied Mathematics an
 
 My research interests lie in reinforcement learning, machine learning, and metareasoning. However, in general, I enjoy finding and exploring intersections between mathematics and AI research.
 
-Fun Fact: My Erd&ouml;s number is 4
+Fun Fact: My Erd&ouml;s number will be 4
 
 <!-- ### Inline styles and components
 Text can be **bold**, _italic_, or ~~strikethrough~~.
