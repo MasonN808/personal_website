@@ -9,7 +9,7 @@ nav_order: 2
 - On the Classification of Networks Using Graph Scattering
 - On the Inversion-Free Newton Algorithm for Softmax Regression
 - Existence of Induced H-Saturated Graphs
-- Network Reliability Using Graph Coloring
+- Network Reliability Using Graph Coloring [preprint](https://arxiv.org/abs/2212.01284)
 - Counting Triangles Using Combinatorics
 - Metareasoning in Autonomous Systems
 <!-- --- -->
