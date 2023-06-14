@@ -183,7 +183,7 @@ div.item {
       li {
         margin-left: .5rem;
         &:before {
-          content: '·';
+        //   content: '·';
           margin-left: -.5rem;
           padding-right: .3rem;
         }
