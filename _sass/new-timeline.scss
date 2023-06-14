@@ -38,6 +38,14 @@ a {
 //   flex-direction: column;
 //   max-height: 100%;
 // }
+
+.container {
+    width: 100%;
+    max-width: 1140px;
+    padding: 30px 15px;
+    box-sizing: border-box;
+    margin: 0 auto;
+  }
 div.header {
   height: auto;
   text-align: center;
@@ -130,7 +138,7 @@ div.item {
   }
   section.year {
   position: relative;
-  margin-top: -.1em;
+  margin-top: -1.1em;
 //   &:first-child section{
 //     margin-top: -1.3em;
 //     padding-bottom: 0px;
