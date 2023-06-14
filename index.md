@@ -11,7 +11,6 @@ My research interests lie in reinforcement learning, machine learning, AI safety
 I recently graduated from Marist College, majoring in applied mathematics and data science with a minor in computer science!
 
 Fun Fact: My Erd&ouml;s number will be 4
-
 <!-- ### Inline styles and components
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
