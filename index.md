@@ -8,8 +8,6 @@ I'm currently a research intern at the <a href="https://humancompatible.ai/" sty
 
 My research interests lie in reinforcement learning, machine learning, AI safety, and applications to robotics.
 
-I recently graduated from Marist College, majoring in applied mathematics and data science with a minor in computer science!
-
 Fun Fact: My Erd&ouml;s number will be 4
 
 <!-- ### Inline styles and components
