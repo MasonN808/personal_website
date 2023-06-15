@@ -5,7 +5,7 @@ title: Honors
 nav_order: 3
 ---
 
-## Undergraduate Honors
+# Undergraduate Honors
 
 <ul>
     <li>International Mathematics Competition 3rd Prize — <span style="color:#696969">28𝑡ℎ IMC for University Students</span></li>
