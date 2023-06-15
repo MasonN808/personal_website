@@ -43,58 +43,14 @@
 
 
     blockquote {
-        //border: 1px solid black;
         border-left: 5px solid #333333;
         margin: 20px 0 20px 0;
         padding: 2px 8px 2px 8px;
         font-style: italic;
     }
 
-    .picture-column {
-        width: 35%;
-        padding: 0 20px 0 0;
-
-        .profile-picture {
-            object-fit: contain;
-
-            p & {
-                padding: 0;
-                margin: 0;
-                
-            }
-
-            @media (max-width: 769px) {
-                margin: 10px auto; // center picture in middle of screen
-                // margin-left: 10vw;
-                float: unset;
-                text-align: center;
-                padding: 0 0 0 0;
-                // width: 0%; // Forces inline-block
-                // height: 0%;
-
-                img {
-                    margin-top: 10px;
-                    // left: 125px; // exactly half of the width of the photo
-
-                }
-            }
-        }
-        @media (max-width: 769px) {
-            margin: 0 auto; // center picture in middle of screen
-            float: unset;
-            text-align: center;
-            padding-right: 0;
-            width: 100%;
-            // flex-direction: column;
-        }
-    }
-
     .force-in-line{
-        // width: 90px; // hard coded: could use some fixing later 
-        // width: auto !important;
-        // display: block;
         width: 100%;
-        // float: none;
         @media (max-width: 769px) {
             width: 100vw;
             display: inline-block;
@@ -116,17 +72,12 @@
 
     .fa, .fa-solid {
         padding-left: 20px;
-        // padding: 20px 0px 0px 20px; // T R B L
         margin-top: 5px;// increase spacing vertical spacing between icons
         text-decoration: none;
         
         @media (max-width: 769px) {
             padding-top: 20px;
-            // display: inline-block;
         }
-        // width: auto !important;
-        // float: none;
-        // text-decoration: none;
     }
 
     .fa-text {
@@ -134,79 +85,62 @@
     }
 
     .text { // for text in contact information
-        // display: block;
         @media (max-width: 769px) {
             display: block;
         }
         font-size: .9em;
-        // width: auto !important;
     }
 
     .fa-twitter {
-        // display: block;
-
-        @media (max-width: 769px) {
-            // display: inline;
-        }
         color: #1DA1F2;
-        // display: inline;
-        // padding: 5px 0px 0px 10px;
-        // width: auto !important;
       }
-
     .fa-github {
-        // display: block;
-
-        @media (max-width: 769px) {
-            // display: inline;
-        }
         color: #171515;
-        // display: inline;
-        // padding: 5px 0px 0px 10px;
-        // width: auto !important;
       }
     .fa-linkedin-square {
-        // display: block;
-
-        @media (max-width: 769px) {
-            // display: inline;
-        }
         color: #0077B5;
-        // width: auto !important;
-        // display: inline;
-        // padding: 5px 0px 0px 10px;
       }
     .fa-file {
-        // position: relative;
-        // right: -7px;
-        // top: -6px;
-        // width: auto !important;
-        // display: block;
-
-        @media (max-width: 769px) {
-            // display: inline;
-        }
         color: black;
-        // display: inline;
-        // padding: -40px 20px 0px 0px;
-        // margin-top: -20px;
-        // font-size: 1.5rem;
-        // margin: 5px 0px 10 0px; // add some padding since looks off
     }
 
     // For columns in site
 
     .column {
-        // float: left;
         position: relative;
-        // overflow: hidden;
-        // margin: 0 auto;
-        // text-align: center;
     }
 
-    // .picture-column {
-    //     width: 35%;
-    // }
+    .picture-column {
+        width: 35%;
+        padding: 0 20px 0 0;
+
+        .profile-picture {
+            object-fit: contain;
+
+            p & {
+                padding: 0;
+                margin: 0;
+            }
+
+            @media (max-width: 769px) {
+                margin: 10px auto; // center picture in middle of screen
+                float: unset;
+                text-align: center;
+                padding: 0 0 0 0;
+
+                img {
+                    margin-top: 10px;
+                }
+            }
+        }
+        @media (max-width: 769px) {
+            margin: 0 auto; // center picture in middle of screen
+            float: unset;
+            text-align: center;
+            padding-right: 0;
+            width: 100%;
+        }
+    }
 
     .text-column { 
         float: right;
