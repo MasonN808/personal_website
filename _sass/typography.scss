@@ -52,32 +52,10 @@
 
     .picture-column {
         width: 35%;
-        // margin-right: 30px;
-        // position: absolute;
-        // float: right;
-        // clear: both;
-        // display: flex;
-        // flex-direction: column;
-        padding-left: 10px;
-        // display: flex;
-        
+        padding: 0 10px 0 0;
 
         .profile-picture {
-            // height: $image-size;
-            // width: $image-size;
             object-fit: contain;
-            // width: 15%;
-            // height: 15%;
-            // margin-bottom: 150px;
-            // flex-direction: column;
-
-            // position: absolute;
-            // margin: 50px 0 0 140px;
-            // margin-right: 18vw;
-            
-            // padding: 50px 18vw 0 0px;
-            // padding-right: 10vw;
-            // border-radius: 50%;
 
             p & {
                 padding: 0;
