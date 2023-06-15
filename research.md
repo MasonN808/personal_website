@@ -12,6 +12,7 @@ nav_order: 2
 - Network Reliability Using Graph Coloring \[[preprint](https://arxiv.org/abs/2212.01284)\]
 - Counting Triangles Using Combinatorics
 - Metaprogramming for Contract Algorithms
+- Ethically-Compliant Autonomous Systems
 <!-- --- -->
 
 <!-- - [On the Classification of Networks Using Graph Scattering](another-page-4-Research#Graph_Scattering)
