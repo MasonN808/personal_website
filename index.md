@@ -8,7 +8,7 @@ I'm currently a research intern at the <a href="https://humancompatible.ai/" sty
 
 My research interests lie in reinforcement learning, explainability, AI safety, and applications to robotics.
 
-Fun Fact: My Erd&ouml;s number will be 4
+Fun Fact: My Erd&ouml;s number will be a 4
 
 <!-- ### Inline styles and components
 Text can be **bold**, _italic_, or ~~strikethrough~~.
