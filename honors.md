@@ -1,5 +1,5 @@
 ---
-layout: default_2
+layout: default-research-honors
 category: Honors
 title: Honors
 nav_order: 3
