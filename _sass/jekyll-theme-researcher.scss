@@ -117,7 +117,7 @@ hr {
 
 .container {
     max-width: $lg-width;
-    // margin: auto;
+    margin: auto;
     vertical-align: top;
 }
 
@@ -155,7 +155,6 @@ hr {
     .navbar {
         .container {
             flex-direction: column;
-            margin: 0 auto;
         }
 
         &-title {
