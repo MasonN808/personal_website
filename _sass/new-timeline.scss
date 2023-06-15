@@ -117,12 +117,12 @@ div.item {
       background: #929191;
     }
   }
-  h3 {
+  h3 { // This is the year
     position: -webkit-sticky;
     position: sticky;
     top: 0rem;
     color: #888;
-    margin-bottom: 8px;
+    margin: 0 0 8px 0;
     font: {
       size: 1em;
       weight: 400;
