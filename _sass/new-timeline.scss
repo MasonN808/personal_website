@@ -152,7 +152,8 @@ div.item {
       }
       line-height: 1.2em;
       margin: 0;
-      padding: 0 89px 0 0;
+      padding: 0 0 0 89px;
+      text-align: right;
       color: #FF0F00;
       @media (min-width: 62em) {
         font-size: 1em;
