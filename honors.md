@@ -19,4 +19,10 @@ nav_order: 3
     <li>Pi Mu Epsilon Member— <span style="color:#696969">National Mathematics Honors Society</span></li>
     <li>Best Use of Statistical Analysis (Vassar DataFest) — <span style="color:#696969">Awarded best use of statistical analysis for proposing a new framework/metric to estimate confusion of an agent in a proprietary video game while providing the theory and implementation for ease of application</span></li>
 </ul>
+
+# Graduate Honors
+
+<ul>
+    <li>Incoming CICS Scholarship Award</li>
+</ul>
 [back](./)
