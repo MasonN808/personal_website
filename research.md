@@ -11,7 +11,7 @@ nav_order: 2
 - Existence of Induced H-Saturated Graphs
 - Network Reliability Using Graph Coloring \[[preprint](https://arxiv.org/abs/2212.01284)\]
 - Counting Triangles Using Combinatorics
-- Metaprogramming for Contract Algorithms \[[preprint](https://static1.squarespace.com/static/6266e3c48fb0751e74f60eb6/t/64d012f0453d231fb98129ec/1691357938353/NSNZRiros23.pdf)\]
+- Metaprogramming for Contract Algorithms \[[preprint](https://drive.google.com/file/d/1pf83y7gmJKKZMNCl3f9frNhXuKhIe4Zl/view?usp=sharing)\]
 - Ethically-Compliant Autonomous Systems
 <!-- --- -->
 
