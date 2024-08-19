@@ -2,7 +2,7 @@
 layout: default-research-honors
 category: Honors
 title: Honors
-nav_order: 3
+nav_order: 2
 ---
 
 # Undergraduate Honors
