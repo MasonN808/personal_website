@@ -1,8 +1,8 @@
 ---
 layout: default-research-honors
-category: Research
-title: Research
-nav_order: 2
+# category: Research
+# title: Research
+# nav_order: 2
 ---
 # Research
 <!-- ## Past and Current Research -->
