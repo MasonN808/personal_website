@@ -1,8 +1,8 @@
-<!-- ---
+---
 layout: default-research-honors
 category: Research
 title: Research
-nav_order: 2
+nav_order: 3
 ---
 # Research -->
 <!-- ## Past and Current Research -->
@@ -15,4 +15,4 @@ nav_order: 2
 <!-- - Ethically-Compliant Autonomous Systems -->
 
 
-<!-- [back](./) -->
+<!-- [back](./)
