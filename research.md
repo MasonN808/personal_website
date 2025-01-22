@@ -1,10 +1,10 @@
----
+<!-- ---
 layout: default-research-honors
 category: Research
 title: Research
 nav_order: 3
 ---
-# Research -->
+# Research --> -->
 <!-- ## Past and Current Research -->
 <!-- - On the Classification of Networks Using Graph Scattering \[[extended abstract](https://drive.google.com/file/d/1JUDLkLtF9r3U-Oi33qfXcK0oGBQF5z4M/view?usp=sharing)\]
 - On the Inversion-Free Newton Algorithm for Softmax Regression \[[thesis](https://drive.google.com/file/d/1wGKDA1wSBmYkkgAkiaz1IbOX8OmpIo6k/view?usp=sharing)\] 
