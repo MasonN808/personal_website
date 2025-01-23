@@ -4,7 +4,7 @@ layout: default
 
 # About
 
-I'm a second-year Ph.D. student at UMass Amherst in Computer Science (CICS) in the <a style="color: rgb(136, 28, 29)"> Resource-Bounded Reasoning Lab</a> advised by [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/). I'm interested in improving the sample-efficiency and alignment capabilites of Reinforcement Learning from Human Feedback (RLHF) given diverse user preferences and reducing catastrophic forgetting in continual reinforcement learning agents.
+I'm a second-year Ph.D. student at UMass Amherst in Computer Science (CICS) in the <a style="color: rgb(136, 28, 29)"> Resource-Bounded Reasoning Lab</a> advised by [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/). Broadly, I work on **planning**, **reinforcement learning**, and **reinforcement learning from human feedback**. More specifically, I'm interested in improving the sample-efficiency and alignment capabilites of Reinforcement Learning from Human Feedback (RLHF) given diverse user preferences and reducing catastrophic forgetting in continual reinforcement learning agents using critical states.
 
 **I'm currently seeking internships starting summer 2025!**
 
