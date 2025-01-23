@@ -173,19 +173,19 @@
     // }
 
     .research-box {
-        border: 1px solid #ffffff;
+        border: 1px solid #ba6262;
         padding: 20px;
         margin-bottom: 20px;
         border-radius: 15px; /* Add curved edges */
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional shadow for better design */
+        // box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional shadow for better design */
         background-color: #f9f9f9; /* Optional background for visibility */
-        transition: transform 0.3s, box-shadow 0.3s; /* Optional hover effect */
+        // transition: transform 0.3s, box-shadow 0.3s; /* Optional hover effect */
     }
     
-    .research-box:hover {
-        transform: translateY(-5px); /* Lift on hover */
-        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* Enhance shadow on hover */
-    }
+    // .research-box:hover {
+    //     transform: translateY(-5px); /* Lift on hover */
+    //     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* Enhance shadow on hover */
+    // }
     
     .research-img {
         max-width: 100%;
