@@ -23,6 +23,8 @@ nav_order: 2
 # Graduate Honors
 
 <ul>
-    <li>Incoming CICS Scholarship Award</li>
+    <li>(8.2023) Incoming CICS Scholarship Award</li>
+    <li>(4.2025) NSF Graduate Research Fellowship Program Honorable Mention</li>
 </ul>
+
 [back](./)

@@ -4,7 +4,7 @@ layout: default
 
 # About
 
-I'm a second-year Ph.D. student in Computer Science at UMass Amherst, working in the College of Information and Computer Sciences (CICS) as a member of the <a style="color: rgb(136, 28, 29)"> Resource-Bounded Reasoning Lab</a>, under the guidance of Professor [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/). Broadly, I work on **planning**, **reinforcement learning**, and **reinforcement learning from human feedback**. More specifically, I'm interested in improving the sample-efficiency and alignment capabilites of Reinforcement Learning from Human Feedback (RLHF) given diverse user preferences and reducing catastrophic forgetting in continual reinforcement learning agents using critical states.
+I'm **Mason Nakamura**, a second-year Ph.D. student in Computer Science at UMass Amherst, working in the College of Information and Computer Sciences (CICS) as a member of the <a style="color: rgb(136, 28, 29)"> Resource-Bounded Reasoning Lab</a>, under the guidance of Professor [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/). Broadly, I work on **planning**, **reinforcement learning**, and **reinforcement learning from human feedback (RLHF)**. More specifically, I'm interested in improving sample-efficiency and performance of value alignment methods for diverse user preferences and enabling agents to continuously learn in non-stationary envrionments.
 
 **I'm currently seeking internships starting summer 2025!**
 
