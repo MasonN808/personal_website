@@ -9,6 +9,7 @@ nav_order: 3
 
 <ul>
     <li>IJCAI 2025 - Emergency Reviewer</li>
+    <li>AAAI 2025 - Program Committee</li>
 </ul>
 
 [back](./)
