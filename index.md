@@ -4,7 +4,9 @@ layout: default
 
 # About
 
-I'm **Mason Nakamura**, a third-year Ph.D. student in Computer Science at UMass Amherst, working in the College of Information and Computer Sciences (CICS) as a member of the <a style="color: rgb(136, 28, 29)"> Resource-Bounded Reasoning Lab</a>, under the guidance of Professor [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/) alongside a close collaboration with [Eugene Bagdasarian](https://people.cs.umass.edu/~eugene/) from UMass Amherst and [Kyle H. Wray](https://wray.ai/) from Northeastern University. My research is funded by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) where I broadly work on safety and alignment of AI systems.
+I'm **Mason Nakamura**, a third-year Ph.D. student in Computer Science at UMass Amherst, working in the College of Information and Computer Sciences (CICS) as a member of the <a style="color: rgb(136, 28, 29)"> Resource-Bounded Reasoning Lab</a>, under the guidance of Professor [Shlomo Zilberstein](https://groups.cs.umass.edu/shlomo/). My research is funded by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) where I broadly work on safety and alignment of AI systems, using methodologies from reinforcment learning and sequential decision-making.
+
+ <!-- alongside a close collaboration with [Eugene Bagdasarian](https://people.cs.umass.edu/~eugene/) from UMass Amherst and [Kyle H. Wray](https://wray.ai/) from Northeastern University -->
 
 My research interests lie in the intersections of:
 - **Value Alignment & AI Safety**: Multi-Objective Alignment, Inference-Time Alignment, Preference Learning, Post-Training
