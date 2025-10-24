@@ -10,4 +10,4 @@ remote_theme: gebeto/researcher
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-github-metadata
+  # - jekyll-github-metadata  # Disabled for local development

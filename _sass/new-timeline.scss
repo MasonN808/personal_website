@@ -101,7 +101,7 @@ div.item {
   display: table; //*For Firefox
   height: 100%;
   margin: {
-    left: auto;
+    left: 0;
     right: auto;
     top: 0rem;
   }
@@ -161,13 +161,13 @@ div.item {
     }
     ul {
       list-style-type: none;
-      padding: 0 0 0 75px;
+      padding: 0 40px 0 75px;
       margin: 0 0 1em;
-      max-width: 32rem;
+      max-width: 40rem;
       font-size: 1em;
       @media (min-width: 62em) {
         font-size: 1.1em;
-        padding: 0 0 0 81px;
+        padding: 0 60px 0 81px;
       }
       &:last-child {
         margin: {

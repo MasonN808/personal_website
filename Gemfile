@@ -5,3 +5,5 @@ group :jekyll_plugins do
 end
 
 gemspec
+
+gem "kramdown-parser-gfm", "~> 1.1"
